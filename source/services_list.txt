@@ -1,0 +1,229 @@
+Diagnostic Execution Service,DiagTrack
+
+Рекомендованная служба устранения неполадок,TroubleshootingSvc
+
+Agent Activation Runtime,AarSvc
+
+Shared PC Account Manager,ScDeviceEnum
+
+BranchCache,PeerDistSvc
+
+Windows Search,WSearch
+
+CDPUserSvcxxxxx,CDPUserSvc
+
+Microsoft App-V Client,AppVClient
+
+Shared pc account manager,ScDeviceEnum
+
+WarpJITSvc,WarpJITSvc
+
+SysMain (Superfetch),SysMain
+
+Xbox Accessory Management Service,XboxGipSvc
+
+Сохранение игр на Xbox Live,XblAuthManager
+
+Сетевая служба Xbox Live,XblGameSave
+
+Диспетчер проверки подлинности Xbox Live,XblAuthManager
+
+Диспетчер печати,Spooler
+
+Расширения и уведомления для принтеров,PrintNotify
+
+PrintWorkflow,PrintWorkflowUserSvc
+
+Служба изображений WIA,stisvc
+
+Служба поддержки Bluetooth,bthserv
+
+Служба поддержки пользователей Bluetooth,BluetoothUserService
+
+Служба звукового шлюза Bluetooth,BTAGService
+
+Dmwappushservice,dmwappushsvc
+
+Служба географического положения,lfsvc
+
+Сборщик событий Windows,EventLog
+
+Биометрическая служба Windows,WbioSrvc
+
+Служба "Обновление Microsoft Edge" (edgeupdate),edgeupdate
+
+Служба "Обновление Microsoft Edge" (edgeupdatem),edgeupdatem
+
+Беспроводная настройка,WlanSvc
+
+Служба маршрутизатора AllJoyn,AJRouter
+
+Служба диспетчера подключений служб Wi-Fi Direct,WFDConMgrSvc
+
+Факс,Fax
+
+Служба шифрования дисков BitLocker,BDESVC
+
+Шифрованная файловая система (EFS),EFS
+
+Служба данных датчиков,SensorDataService
+
+Служба наблюдения за датчиками,SensorService
+
+Служба записи компакт-дисков,IMAPIService
+
+Функциональные возможности для подключенных пользователей и телеметрия,DiagTrack
+
+Удостоверение приложения,AppIDSvc
+
+Удаленный реестр,RemoteRegistry
+
+Перенаправитель портов пользовательского режима служб удаленных рабочих столов,UmRdpService
+
+Настройка сервера удаленных рабочих столов,UmRdpService
+
+Служба удаленного управления Windows (WS-Management),WinRM
+
+Диспетчер подключений удаленного доступа,RasMan
+
+Служба регистрации ошибок Windows,WerSvc
+
+Служба PushToInstall Windows,PushToInstall
+
+Родительский контроль,WPCSvc
+
+Служба лицензий клиента (ClipSVC),ClipSVC
+
+Служба установки Microsoft Store,InstallService
+
+Служба развертывания AppX (AppXSVC),AppXSVC
+
+Ловушка SNMP,SNMPTRAP
+
+Служба помощника по совместимости программ,PcaSvc
+
+Модуль поддержки NetBIOS через TCP/IP,lmhosts
+
+Теневое копирование тома,VSS
+
+Программный поставщик теневого копирования,SWPRV
+
+Программа архивации данных,Wbengine
+
+Служба модуля архивации на уровне блоков,wbengine
+
+Вспомогательная служба IP,iphlpsvc
+
+Рабочие папки,WorkFolders
+
+Machine Debug Manager,MdmAgent
+
+Сервер,LanmanServer
+
+Служба загрузки изображений,WiaRpc
+
+Служба маршрутизатора SMS Microsoft Windows,smssrvc
+
+Центр обновлений Windows,wuauserv
+
+Microsoft Update Health Service,UsoSvc
+
+Служба Medic центра обновления Windows,WaaSMedicSvc
+
+Служба оркестратора обновлений,UsoSvc
+
+Оптимизация доставки,DoSvc
+
+OpenSSH Authentication Agent,ssh-agent
+
+NVIDIA Stereoscopic 3D Driver Service,StereoService
+
+NVIDIA Streamer Service,NvStreamSvc
+
+NVIDIA Streamer Network Service,NvNetworkService
+
+Служба времени Windows,W32Time
+
+Служба управления радио,RadioManagementService
+
+Служба общего доступа к портам Net.Tcp,NetTcpPortSharing
+
+Браузер компьютеров,Browser
+
+Автоматическое обновление часового пояса,tzautoupdate
+
+Центр обеспечения безопасности,wscsvc
+
+Служба Advanced Threat Protection в Защитнике Windows,Sense
+
+Служба "Безопасность Windows",SecurityHealthService
+
+Служба проверки сети антивирусной программы Microsoft Defender,WdNisSvc
+
+Брандмауэр Защитника Windows,mpssvc
+
+Телефонная связь,TapiSrv
+
+Телефония,TapiSrv
+
+Служба общих сетевых ресурсов проигрывателя Windows Media,WMPNetworkSvc
+
+Служба сенсорной клавиатуры и панели рукописного ввода,TabletInputService
+
+Смарт-карта,SCardSvr
+
+Политика удаления смарт-карт,SCPolicySvc
+
+Служба перечисления устройств чтения смарт-карт,SCardSvr
+
+Служба кошелька,WalletService
+
+Диспетчер платежей и NFC/защищенных элементов,TokenBroker
+
+Адаптер производительности WMI,wmiApSrv
+
+Вторичный вход в систему,seclogon
+
+Диспетчер скачанных карт,MapsBroker
+
+Помощник по входу в учетную запись Майкрософт,wlidsvc
+
+Обнаружение SSDP,SSDPSRV
+
+Группировка сетевых участников,PNRPSvc
+
+Уведомления о системных событиях,SENS
+
+Стандартная служба сборщика центра диагностики Microsoft,diagsvc
+
+Общий доступ к подключению к Интернету (ICS),SharedAccess
+
+Определение оборудования оболочки,ShellHWDetection
+
+Служба завершения работы в качестве гостя (Hyper-V),vmicshutdown
+
+Служба пульса (Hyper-V),vmicheartbeat
+
+Служба сеансов виртуальных машин Hyper-V,vmicguestinterface
+
+Служба синхронизации времени Hyper-V,vmictimesync
+
+Служба обмена данными (Hyper-V),vmicvmsession
+
+Служба виртуализации удаленных рабочих столов Hyper-V,vmickvpexchange
+
+Интерфейс гостевой службы Hyper-V,vmickvpexchange
+
+Служба Hyper-V PowerShell Direct,vmickvpexchange
+
+Служба узла Hyper-V,vmickvpexchange
+
+Использование данных,DataUsageSvc
+
+Оптимизация дисков,defragsvc
+
+Служба перечислителя переносных устройств,WUDFWpdFs
+
+Темы,Themes
+
+Служба восприятия Windows,SensrSvc

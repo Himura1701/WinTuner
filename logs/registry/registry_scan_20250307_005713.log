@@ -1,0 +1,17 @@
+2025-03-07 00:57:26,365 - ERROR - Error scanning SOFTWARE\Microsoft\EAPSIMMethods\18\FastReauthContext: [WinError 5] Отказано в доступе
+2025-03-07 00:57:26,366 - ERROR - Error scanning SOFTWARE\Microsoft\EAPSIMMethods\23\FastReauthContext: [WinError 5] Отказано в доступе
+2025-03-07 00:57:26,367 - ERROR - Error scanning SOFTWARE\Microsoft\EAPSIMMethods\50\FastReauthContext: [WinError 5] Отказано в доступе
+2025-03-07 00:57:28,580 - ERROR - Error scanning SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\SharedProfiles: [WinError 5] Отказано в доступе
+2025-03-07 00:57:28,594 - ERROR - Error scanning SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\CloudExtensions: [WinError 5] Отказано в доступе
+2025-03-07 00:57:29,759 - ERROR - Error scanning SOFTWARE\Microsoft\Windows\CurrentVersion\Bluetooth\LooselyCoupledDevices: [WinError 5] Отказано в доступе
+2025-03-07 00:57:34,371 - ERROR - Error scanning SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE\SystemProtected: [WinError 5] Отказано в доступе
+2025-03-07 00:57:34,397 - ERROR - Error scanning SOFTWARE\Microsoft\Windows\CurrentVersion\SecondaryAuthFactor: [WinError 5] Отказано в доступе
+2025-03-07 00:57:38,872 - ERROR - Error scanning SOFTWARE\Microsoft\WwanSvc\DMProfiles: [WinError 5] Отказано в доступе
+2025-03-07 00:57:38,873 - ERROR - Error scanning SOFTWARE\Microsoft\WwanSvc\Profiles: [WinError 5] Отказано в доступе
+2025-03-07 00:57:38,873 - ERROR - Error scanning SOFTWARE\Microsoft\WwanSvc\Security: [WinError 5] Отказано в доступе
+2025-03-07 00:57:38,985 - ERROR - Error scanning SOFTWARE\WOW6432Node\Famatech\RadminVPN\1.0\Registration: [WinError 5] Отказано в доступе
+2025-03-07 00:57:39,459 - ERROR - Error scanning SOFTWARE\WOW6432Node\Microsoft\EAPSIMMethods\18\FastReauthContext: [WinError 5] Отказано в доступе
+2025-03-07 00:57:39,459 - ERROR - Error scanning SOFTWARE\WOW6432Node\Microsoft\EAPSIMMethods\23\FastReauthContext: [WinError 5] Отказано в доступе
+2025-03-07 00:57:39,459 - ERROR - Error scanning SOFTWARE\WOW6432Node\Microsoft\EAPSIMMethods\50\FastReauthContext: [WinError 5] Отказано в доступе
+2025-03-07 00:57:40,138 - ERROR - Error scanning SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\AppModel\CloudExtensions: [WinError 5] Отказано в доступе
+2025-03-07 00:57:55,210 - ERROR - Error scanning SOFTWARE\Win 10 Tweaker: [WinError 5] Отказано в доступе
